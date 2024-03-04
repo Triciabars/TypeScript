@@ -1,0 +1,6 @@
+"use strict";
+(() => {
+    let nada = undefined;
+    console.log(nada);
+})();
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibnVsbC11bmRlZmluZWQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJudWxsLXVuZGVmaW5lZC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEsQ0FBQyxHQUFFLEVBQUU7SUFHRCxJQUFJLElBQUksR0FBMEIsU0FBUyxDQUFDO0lBQzVDLE9BQU8sQ0FBQyxHQUFHLENBQUMsSUFBSSxDQUFDLENBQUM7QUFDdEIsQ0FBQyxDQUFDLEVBQUUsQ0FBQSJ9
